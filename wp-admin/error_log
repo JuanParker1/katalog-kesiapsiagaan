@@ -1,0 +1,5 @@
+[16-Nov-2021 12:37:36 UTC] Galat basis data WordPress Unknown column 'wp_' in 'field list' untuk kueri SELECT wp_
+[17-Dec-2021 00:06:49 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 983040 bytes) in /home/u1022862/public_html/demo/wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/require.php on line 49
+[17-Dec-2021 00:07:54 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 983040 bytes) in /home/u1022862/public_html/demo/wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/require.php on line 49
+[17-Dec-2021 00:46:16 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 983040 bytes) in /home/u1022862/public_html/demo/wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/require.php on line 49
+[17-Dec-2021 00:50:59 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 983040 bytes) in /home/u1022862/public_html/demo/wp-content/plugins/unlimited-elements-for-elementor/provider/freemius/require.php on line 49
